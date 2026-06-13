@@ -1,0 +1,706 @@
+MSN,YYYYMM,Value,Column_Order,Description,Unit
+NUOUPUS,195713,1,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,195813,1,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,195913,2,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196013,3,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196113,3,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196213,9,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196313,11,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196413,13,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196513,13,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196613,14,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196713,15,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196813,13,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,196913,17,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197013,20,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197113,22,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197213,27,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197301,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197302,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197303,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197304,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197305,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197306,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197307,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197308,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197309,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197310,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197311,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197312,42,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197313,42,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197401,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197402,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197403,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197404,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197405,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197406,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197407,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197408,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197409,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197410,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197411,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197412,55,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197413,55,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197501,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197502,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197503,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197504,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197505,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197506,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197507,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197508,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197509,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197510,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197511,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197512,57,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197513,57,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197601,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197602,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197603,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197604,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197605,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197606,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197607,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197608,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197609,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197610,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197611,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197612,63,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197613,63,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197701,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197702,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197703,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197704,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197705,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197706,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197707,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197708,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197709,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197710,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197711,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197712,67,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197713,67,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197801,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197802,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197803,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197804,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197805,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197806,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197807,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197808,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197809,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197810,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197811,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197812,70,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197813,70,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197901,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197902,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197903,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197904,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197905,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197906,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197907,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197908,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197909,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197910,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197911,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197912,69,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,197913,69,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198001,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198002,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198003,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198004,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198005,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198006,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198007,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198008,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198009,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198010,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198011,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198012,71,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198013,71,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198101,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198102,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198103,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198104,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198105,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198106,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198107,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198108,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198109,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198110,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198111,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198112,75,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198113,75,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198201,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198202,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198203,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198204,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198205,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198206,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198207,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198208,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198209,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198210,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198211,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198212,78,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198213,78,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198301,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198302,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198303,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198304,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198305,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198306,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198307,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198308,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198309,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198310,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198311,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198312,81,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198313,81,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198401,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198402,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198403,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198404,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198405,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198406,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198407,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198408,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198409,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198410,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198411,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198412,87,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198413,87,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198501,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198502,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198503,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198504,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198505,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198506,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198507,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198508,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198509,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198510,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198511,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198512,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198513,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198601,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198602,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198603,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198604,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198605,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198606,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198607,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198608,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198609,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198610,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198611,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198612,101,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198613,101,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198701,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198702,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198703,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198704,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198705,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198706,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198707,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198708,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198709,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198710,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198711,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198712,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198713,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198801,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198802,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198803,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198804,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198805,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198806,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198807,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198808,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198809,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198810,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198811,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198812,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198813,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198901,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198902,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198903,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198904,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198905,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198906,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198907,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198908,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198909,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198910,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198911,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198912,111,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,198913,111,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199001,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199002,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199003,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199004,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199005,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199006,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199007,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199008,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199009,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199010,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199011,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199012,112,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199013,112,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199101,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199102,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199103,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199104,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199105,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199106,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199107,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199108,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199109,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199110,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199111,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199112,111,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199113,111,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199201,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199202,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199203,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199204,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199205,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199206,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199207,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199208,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199209,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199210,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199211,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199212,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199213,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199301,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199302,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199303,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199304,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199305,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199306,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199307,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199308,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199309,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199310,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199311,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199312,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199313,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199401,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199402,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199403,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199404,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199405,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199406,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199407,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199408,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199409,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199410,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199411,Not Available,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199412,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199413,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199501,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199502,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199503,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199504,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199505,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199506,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199507,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199508,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199509,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199510,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199511,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199512,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199513,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199601,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199602,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199603,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199604,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199605,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199606,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199607,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199608,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199609,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199610,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199611,110,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199612,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199613,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199701,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199702,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199703,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199704,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199705,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199706,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199707,109,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199708,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199709,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199710,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199711,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199712,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199713,107,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199801,105,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199802,105,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199803,105,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199804,105,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199805,105,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199806,105,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199807,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199808,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199809,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199810,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199811,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199812,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199813,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199901,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199902,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199903,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199904,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199905,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199906,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199907,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199908,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199909,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199910,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199911,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199912,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,199913,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200001,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200002,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200003,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200004,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200005,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200006,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200007,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200008,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200009,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200010,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200011,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200012,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200013,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200101,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200102,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200103,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200104,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200105,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200106,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200107,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200108,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200109,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200110,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200111,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200112,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200113,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200201,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200202,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200203,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200204,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200205,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200206,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200207,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200208,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200209,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200210,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200211,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200212,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200213,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200301,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200302,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200303,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200304,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200305,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200306,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200307,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200308,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200309,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200310,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200311,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200312,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200313,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200401,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200402,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200403,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200404,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200405,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200406,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200407,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200408,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200409,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200410,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200411,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200412,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200413,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200501,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200502,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200503,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200504,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200505,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200506,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200507,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200508,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200509,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200510,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200511,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200512,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200513,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200601,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200602,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200603,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200604,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200605,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200606,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200607,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200608,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200609,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200610,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200611,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200612,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200613,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200701,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200702,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200703,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200704,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200705,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200706,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200707,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200708,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200709,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200710,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200711,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200712,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200713,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200801,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200802,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200803,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200804,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200805,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200806,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200807,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200808,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200809,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200810,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200811,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200812,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200813,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200901,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200902,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200903,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200904,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200905,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200906,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200907,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200908,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200909,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200910,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200911,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200912,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,200913,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201001,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201002,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201003,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201004,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201005,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201006,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201007,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201008,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201009,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201010,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201011,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201012,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201013,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201101,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201102,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201103,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201104,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201105,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201106,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201107,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201108,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201109,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201110,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201111,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201112,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201113,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201201,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201202,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201203,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201204,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201205,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201206,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201207,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201208,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201209,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201210,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201211,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201212,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201213,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201301,104,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201302,103,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201303,103,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201304,103,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201305,102,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201306,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201307,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201308,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201309,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201310,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201311,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201312,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201313,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201401,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201402,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201403,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201404,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201405,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201406,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201407,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201408,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201409,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201410,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201411,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201412,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201413,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201501,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201502,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201503,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201504,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201505,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201506,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201507,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201508,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201509,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201510,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201511,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201512,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201513,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201601,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201602,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201603,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201604,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201605,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201606,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201607,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201608,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201609,100,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201610,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201611,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201612,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201613,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201701,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201702,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201703,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201704,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201705,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201706,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201707,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201708,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201709,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201710,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201711,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201712,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201713,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201801,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201802,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201803,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201804,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201805,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201806,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201807,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201808,99,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201809,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201810,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201811,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201812,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201813,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201901,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201902,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201903,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201904,98,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201905,97,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201906,97,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201907,97,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201908,97,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201909,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201910,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201911,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201912,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,201913,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202001,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202002,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202003,96,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202004,95,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202005,95,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202006,95,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202007,95,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202008,95,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202009,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202010,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202011,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202012,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202013,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202101,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202102,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202103,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202104,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202105,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202106,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202107,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202108,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202109,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202110,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202111,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202112,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202113,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202201,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202202,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202203,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202204,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202205,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202206,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202207,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202208,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202209,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202210,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202211,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202212,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202213,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202301,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202302,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202303,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202304,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202305,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202306,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202307,92,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202308,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202309,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202310,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202311,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202312,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202313,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202401,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202402,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202403,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202404,93,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202405,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202406,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202407,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202408,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202409,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202410,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202411,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202412,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202413,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202501,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202502,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202503,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202504,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202505,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202506,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202507,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202508,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202509,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202510,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202511,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202512,94,1,"Nuclear Generating Units, Total Operable Units",Number
+NUOUPUS,202513,94,1,"Nuclear Generating Units, Total Operable Units",Number

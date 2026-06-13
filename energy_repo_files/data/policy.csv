@@ -1,0 +1,22 @@
+Year,Event_Name,Event_Type,Policy_Indicator,Description,Source
+1957,Price-Anderson Nuclear Industries Act,Pro-Nuclear Policy,1,Limited private liability for nuclear accidents and improved insurability for commercial nuclear investment,NRC / U.S. Congress
+1973,Yom Kippur War / Arab Oil Embargo,War / Energy Security Shock,1,Oil supply disruption increased interest in domestic non-oil electricity sources and strengthened the relative case for nuclear energy,DOE History Timeline
+1974,Energy Reorganization Act,Regulation,0,Abolished the AEC and created the NRC and ERDA separating promotion from regulation,NRC / U.S. Congress
+1979,Three Mile Island Accident,Accident,-1,Partial core meltdown sharply reduced public confidence and tightened regulatory scrutiny,NRC
+1982,Nuclear Waste Policy Act,Regulation,-1,Created the federal repository framework but also amplified long-term waste-management uncertainty,DOE / U.S. Congress
+1986,Chernobyl Disaster,Accident,-1,Global nuclear disaster intensified anti-nuclear sentiment and safety scrutiny,IAEA
+1987,Nuclear Waste Policy Amendments Act,Regulation,-1,Focused repository work on Yucca Mountain and deepened political conflict over waste disposal,DOE / U.S. Congress
+1990,Gulf War / Kuwait Oil Shock,War / Energy Security Shock,1,Oil-market disruption reinforced the energy-security value of stable domestic baseload generation,EIA
+1992,Energy Policy Act of 1992,Pro-Nuclear Policy,1,Streamlined the licensing process for new nuclear plants and reduced some development uncertainty,DOE / U.S. Congress
+2002,Yucca Mountain Authorization,Pro-Nuclear Policy,1,Approved Yucca Mountain as the national repository site in an effort to resolve spent-fuel storage uncertainty,DOE / U.S. Congress
+2005,Energy Policy Act of 2005,Pro-Nuclear Policy,1,Added tax credits loan guarantees and risk insurance that helped drive the Nuclear Renaissance,DOE / U.S. Congress
+2011,Fukushima Daiichi Disaster,Accident,-1,Major accident in Japan triggered new U.S. safety reviews and renewed public opposition,IAEA / NRC
+2012,Vogtle Units 3 and 4 Combined Licenses,Pro-Nuclear Policy,1,NRC issuance of combined licenses for new Vogtle reactors marked a major approval milestone for new U.S. builds,NRC
+2013,Multiple Plant Closures Begin,Anti-Nuclear Event,-1,Cheap natural gas and weak power demand led to early retirements of uneconomic plants,EIA / NRC
+2016,Watts Bar Unit 2 Commercial Operation,Pro-Nuclear Policy,1,First new U.S. nuclear generation to enter commercial operation in decades,TVA
+2017,Vogtle Delays / Westinghouse Bankruptcy,Anti-Nuclear Event,-1,Construction overruns and bankruptcy damaged confidence in the economics of new large reactors,DOE / major project reporting
+2019,Nuclear Energy Innovation and Modernization Act,Pro-Nuclear Policy,1,Reformed NRC fee structures and advanced licensing support for next-generation reactors,NRC / DOE
+2021,Bipartisan Infrastructure Law / Civil Nuclear Credit Program,Pro-Nuclear Policy,1,Created a major federal support program to prevent premature reactor shutdowns,DOE
+2022,Inflation Reduction Act Nuclear Production Credit,Pro-Nuclear Policy,1,Established a zero-emission nuclear production credit and broadened financial support for the sector,DOE / IRS
+2023,Vogtle Unit 3 Enters Commercial Operation,Pro-Nuclear Policy,1,First newly built U.S. reactor in decades to begin commercial operation and add carbon-free generation,DOE
+2024,ADVANCE Act,Pro-Nuclear Policy,1,Directed the NRC to modernize and accelerate licensing especially for advanced reactors and fuels,NRC
